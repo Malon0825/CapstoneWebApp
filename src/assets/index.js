@@ -1,5 +1,4 @@
 import logo from "./LogoFinal.png";
-import profile from "./Profile.jpg";
 import clearance from "./Brgy_Clear.jpg";
 import activities from "./global-search.svg";
 import history from "./category-2.svg";
@@ -11,8 +10,7 @@ import sign_up_bg from "./sign-up-bg-new.png"
 
 
 
-export {logo, 
-        profile, 
+export {logo,  
         clearance, 
         activities, 
         history, 
